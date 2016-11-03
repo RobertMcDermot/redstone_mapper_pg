@@ -9,7 +9,7 @@ dependencies:
   redstone: "^0.6.7"
   redstone_mapper:
     git: https://github.com/RobertMcDermot/redstone_mapper.git
-  postgresql: ^0.3.3
+  postgresql: '^0.3.4'
 dev_dependencies:
-  unittest: '^12.4.1'
-  mock: '>=0.11.0+1 <0.12.0'
+  test: "^0.12.0"
+  mock: '^0.12.0'

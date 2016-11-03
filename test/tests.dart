@@ -3,7 +3,7 @@ library mapper_postgresql_tests;
 import 'dart:async';
 import 'dart:convert' as conv;
 
-import 'package:unittest/unittest.dart';
+import 'package:test/test.dart';
 import 'package:mock/mock.dart';
 
 import 'package:redstone/redstone.dart';
